@@ -1,2 +1,2 @@
 # odin-recipes
-webpage showing recipe for jollof rice 
+webpage showing recipe for jollof 
