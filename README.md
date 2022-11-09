@@ -1,2 +1,2 @@
 # odin-recipes
-webpage showing recipe for jollof 
+webpage showing favourite recipes 
