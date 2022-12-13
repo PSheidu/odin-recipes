@@ -1,11 +1,19 @@
 .jollof,
 .egusi,
-.efor {
-    height: 400px;
-    width: 500px;
-    border: 7px solid rgb(117, 5, 5);
+.efor,
+.dish-image {border: 5px solid rgb(117, 5, 5);
 }
-
-h1 {color: yellow;
+.jollof,
+.egusi,
+.efor {height: 400px;
+    width: 500px;
+}
+h1,
+h2,
+h3 {color: yellow;
     background-color: rgb(117, 5, 5);
+}
+.dish-image {
+    height: 600px;
+    width: 600px;
 }
